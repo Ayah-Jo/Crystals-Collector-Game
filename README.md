@@ -1,7 +1,4 @@
 # Crystals-Collector-Game
-crystal-collector
-This is a fun and interactive game for web browsers that dynamically updates the HTML with the jQuery library.
-
 Getting Started
 Crystal Collector
 
