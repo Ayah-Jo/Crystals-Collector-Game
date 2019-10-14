@@ -3,7 +3,7 @@ font-family: 'Ek Mukta', sans-serif;*/
 
 /* Backgrounds */
 body {
-	background-image: url("../images/background.jpg");
+	background-image: url("./background.jpg");
 }
 
 .jumbotron {
