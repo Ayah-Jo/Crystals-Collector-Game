@@ -1,0 +1,49 @@
+/*font-family: 'Alfa Slab One', cursive;
+font-family: 'Ek Mukta', sans-serif;*/
+
+/* Backgrounds */
+body {
+	background-image: url("../images/background.jpg");
+}
+
+.jumbotron {
+	background-color:#B0E0E6;
+}
+
+#gameSection, #scoreSection {
+	background-color: #ADD8E6;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+#buttonSection {
+
+	padding: 0px;
+	padding-top: 50px;
+	padding-bottom: 25px;
+}
+
+/* Fonts */
+h1, h2, h3 {
+	font-family: 'Alfa Slab One', cursive;
+}
+
+p {
+	font-family: 'Ek Mukta', sans-serif;
+}
+
+.numberBox {
+	font-size: 100px;
+	margin: 0px;
+}
+
+/* images for buttons */
+.icons {
+	display: inline-block;
+  	max-width: 100px;
+  	max-height: 100px;
+  	width: auto;
+  	height: auto;
+  	margin:10px;
+}
